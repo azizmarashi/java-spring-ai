@@ -1,6 +1,6 @@
-package com.example.java_spring_ai.controller;
+package com.example.application.controller;
 
-import com.example.java_spring_ai.service.MainService;
+import com.example.application.service.MainService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
